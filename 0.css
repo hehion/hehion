@@ -1,0 +1,41 @@
+@font-face{
+font-family: ;
+font-style:normal;
+font-weight:normal;
+src:url( );
+}
+
+body,font,td,pre{
+font-size:9pt;font-family:µ¸¿ò;color:777777;
+overflow-y:auto;
+}
+
+a{
+selector-dummy:expression(this.hideFocus=true);
+//onfocus='this.blur()'
+}
+
+body{
+background-attachment:fixed;
+background-repeat:repeat;
+background-position:left top;
+background-image:url( );
+background-color: ;
+overflow-y:scroll;
+//scroll,auto,hidden
+
+scrollbar-3dlight-color: ;
+scrollbar-highlight-color: ;
+scrollbar-shadow-color: ;
+scrollbar-darkshadow-color: ;
+scrollbar-face-color: ;
+scrollbar-track-color: ;
+scrollbar-arrow-color: ;
+}
+
+hr{border-style:dotted;color:aaaaaa;}
+
+a:link{text-decoration:none;color:cc0000;font-size:9pt;font-family:µ¸¿ò;}
+a:visited{text-decoration:none;color:0000ff;font-size:9pt;font-family:µ¸¿ò;}
+a:active{text-decoration:none;color:00cc00;font-size:9pt;font-family:µ¸¿ò;}
+a:hover{text-decoration:none;color:005500;font-size:9pt;font-family:µ¸¿ò;}
